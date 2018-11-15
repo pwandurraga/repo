@@ -5,9 +5,9 @@
     { "id": 3, "title": "Post 3" }
   ],
   "pickingItems": [
-    {"Id":39853,"ReferenceId":"MK0037","ReferenceName":"BETAMETASONA 0.05% CREMA - ","ReferencePacking":"TUBO X 40 GRAMOS","Quantity":100,"Barcode":"7702057070236","Location":"F-003","LaboratoryName":"MK","Lot":"8K8112","ExpireDate":"31/08/2021","Accepted":"0","Picked":"0"},
-    {"Id":39855,"ReferenceId":"MK0059","ReferenceName":"DICLOFENACO SODICO 100MG CAPSULA - ","ReferencePacking":"CAJA X 20 CAPSULAS","Quantity":150,"Barcode":"7702057072230","Location":"F-009","LaboratoryName":"MK","Lot":"8D1255","ExpireDate":"28/02/2020","Accepted":"0","Picked":"0"},
-    {"Id":39854,"ReferenceId":"TE0133","ReferenceName":"ERGOTAMINA + CAFEINA 1MG+100MG TABLETA - FENCAFEN","ReferencePacking":"CAJA X 500 TABLETAS","Quantity":12,"Barcode":"7702057013967","Location":"F-009","LaboratoryName":"TECNOQUIMICAS","Lot":"8J2295","ExpireDate":"30/08/2021","Accepted":"0","Picked":"0"}
+    {"id":39853,"headerId":123,"referenceId":"MK0037","referenceName":"BETAMETASONA 0.05% CREMA - ","referencePacking":"TUBO X 40 GRAMOS","quantity":100,"barcode":"7702057070236","location":"F-003","laboratoryName":"MK","lot":"8K8112","expireDate":"31/08/2021","accepted":"0","picked":"0"},
+    {"id":39855,"headerId":123,"referenceId":"MK0059","referenceName":"DICLOFENACO SODICO 100MG CAPSULA - ","referencePacking":"CAJA X 20 CAPSULAS","quantity":150,"barcode":"7702057072230","location":"F-009","laboratoryName":"MK","lot":"8D1255","expireDate":"28/02/2020","accepted":"0","picked":"0"},
+    {"id":39854,"headerId":123,"referenceId":"TE0133","referenceName":"ERGOTAMINA + CAFEINA 1MG+100MG TABLETA - FENCAFEN","referencePacking":"CAJA X 500 TABLETAS","quantity":12,"barcode":"7702057013967","location":"F-009","laboratoryName":"TECNOQUIMICAS","lot":"8J2295","expireDate":"30/08/2021","accepted":"0","picked":"0"}
   ],
   "profile": {
     "name": "typicode"
