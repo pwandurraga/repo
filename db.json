@@ -4,7 +4,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "header": {"id":429379,"code":"900303927-8","customer":"LA FE DISTRIBUCIONES MEDICAS SOCIDAD POR ACCIONES SIMPLIFICADA","documentType":"OP","documentNumber":"275470","documentDate":"14/11/2018","salesman":"MARTHA LEONOR VALERA","city":"VALLEDUPAR","state":"CESAR","address":"CRA 17 NO 13B   BIS   05 BRR ALFONSO LOPEZ VALLEDUPAR","phone":"5807601","userName":"ANDREA ARCINIEGAS","comments":"Comentarios","shippingTime":"14/11/2018 4:59PM","tableAssigned":"GREEN","flagAssigned":"099"},
+  "header": {"id":429379,"code":"900303927-8","customer":"LA FE DISTRIBUCIONES MEDICAS SOCIDAD POR ACCIONES SIMPLIFICADA","documentType":"OP","documentNumber":"275470","documentDate":"14/11/2018","salesman":"MARTHA LEONOR VALERA","city":"VALLEDUPAR","state":"CESAR","address":"CRA 17 NO 13B   BIS   05 BRR ALFONSO LOPEZ VALLEDUPAR","phone":"5807601","userName":"ANDREA ARCINIEGAS","comments":"Comentarios","shippingTime":"14/11/2018 4:59PM","table":"GREEN","flag":"099"},
   "pickingItems": [
     {"id":39853,"headerId":123,"referenceId":"MK0037","referenceName":"BETAMETASONA 0.05% CREMA - ","referencePacking":"TUBO X 40 GRAMOS","quantity":100,"barcode":"7702057070236","location":"F-003","laboratoryName":"MK","lot":"8K8112","expireDate":"31/08/2021","accepted":"1","picked":"0"},
     {"id":39855,"headerId":123,"referenceId":"MK0059","referenceName":"DICLOFENACO SODICO 100MG CAPSULA - ","referencePacking":"CAJA X 20 CAPSULAS","quantity":150,"barcode":"7702057072230","location":"F-009","laboratoryName":"MK","lot":"8D1255","expireDate":"28/02/2020","accepted":"1","picked":"0"},
