@@ -11,8 +11,8 @@
     {"id":39854,"headerId":123,"referenceId":"TE0133","referenceName":"ERGOTAMINA + CAFEINA 1MG+100MG TABLETA - FENCAFEN","referencePacking":"CAJA X 500 TABLETAS","quantity":12,"barcode":"7702057013967","location":"F-009","laboratoryName":"TECNOQUIMICAS","lot":"8J2295","expireDate":"30/08/2021","accepted":true,"picked":true}
   ],
   "purchases": [
-    { "id": 698, "type": "OP", "number": "275470", "date": "14/11/2018 4:59PM", "customer": "LA FE DISTRIBUCIONES MEDICAS SOCIEDAD POR ACCIONES SIMPLIFICADA", "city": "VALLEDUPAR", "state": "CESAR"},
-    { "id": 112, "type": "OP", "number": "258420", "date": "14/11/2018 5:50PM", "customer": "INSUFARMACOS DEL ORIENTE", "city": "BUCARAMANGA", "state": "SANTANDER"},
+    { "id": 698, "type": "OP", "number": "275470", "date": "14/11/2018 4:59PM", "customer": "LA FE DISTRIBUCIONES MEDICAS SOCIEDAD POR ACCIONES SIMPLIFICADA", "city": "VALLEDUPAR", "state": "CESAR", "enabled": true},
+    { "id": 112, "type": "OP", "number": "258420", "date": "14/11/2018 5:50PM", "customer": "INSUFARMACOS DEL ORIENTE", "city": "BUCARAMANGA", "state": "SANTANDER", "enabled": false},
     { "id": 487, "type": "OP", "number": "233636", "date": "15/11/2018 6:02PM", "customer": "EXFARMA", "city": "MEDELLIN", "state": "ANTIOQUIA"}
   ],
   "profile": {
