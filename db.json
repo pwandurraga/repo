@@ -11,8 +11,8 @@
     { "id": 487, "type": "OP", "number": "233636", "date": "15/11/2018 6:02PM", "customer": "EXFARMA", "city": "MEDELLIN", "state": "ANTIOQUIA"}
   ],
   "users": [
-    { "email": "warman1@operandosa.com", "name": "Angelica Triana" },
-    { "email": "warman2@operandosa.com", "name": "Carlos Salazar" },
-    { "email": "warman3@operandosa.com", "name": "Diana Carolina Ramirez Carvajal" }
+    { "id": 1, "email": "warman1@operandosa.com", "name": "Angelica Triana" },
+    { "id": 2, "email": "warman2@operandosa.com", "name": "Carlos Salazar" },
+    { "id": 3, "email": "warman3@operandosa.com", "name": "Diana Carolina Ramirez Carvajal" }
   ]
 }
