@@ -1,9 +1,4 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+{  
   "header": {"id":429379,"code":"900303927-8","customer":"LA FE DISTRIBUCIONES MEDICAS SOCIDAD POR ACCIONES SIMPLIFICADA","documentType":"OP","documentNumber":"275470","documentDate":"14/11/2018","salesman":"MARTHA LEONOR VALERA","city":"VALLEDUPAR","state":"CESAR","address":"CRA 17 NO 13B   BIS   05 BRR ALFONSO LOPEZ VALLEDUPAR","phone":"5807601","userName":"ANDREA ARCINIEGAS","comments":"Comentarios","shippingTime":"14/11/2018 4:59PM","table":"GREEN","flag":"099"},
   "pickingItems": [
     {"id":39853,"headerId":123,"referenceId":"MK0037","referenceName":"BETAMETASONA 0.05% CREMA - ","referencePacking":"TUBO X 40 GRAMOS","quantity":100,"barcode":"7702057070236","location":"F-003","laboratoryName":"MK","lot":"8K8112","expireDate":"31/08/2021","accepted":true,"picked":false},
@@ -19,8 +14,5 @@
     { "email": "warman1@operandosa.com", "name": "Angelica Triana" },
     { "email": "warman2@operandosa.com", "name": "Carlos Salazar" },
     { "email": "warman3@operandosa.com", "name": "Diana Carolina Ramirez Carvajal" }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
