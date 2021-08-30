@@ -13,6 +13,15 @@
   "users": [
     { "id": 1, "email": "warman1@operandosa.com", "name": "Angelica Triana" },
     { "id": 2, "email": "warman2@operandosa.com", "name": "Carlos Salazar" },
-    { "id": 3, "email": "warman3@operandosa.com", "name": "Diana Carolina Ramirez Carvajal" }
+    {
+      "id": 3,
+      "email": "warman3@operandosa.com",
+      "name": "Diana Carolina Ramirez Carvajal"
+    },
+    {
+      "id": 3,
+      "email": "warman3@operandosa.com",
+      "name": "Diana Carolina Ramirez Carvajal"
+    }
   ]
 }
